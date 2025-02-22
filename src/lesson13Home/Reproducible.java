@@ -1,5 +1,5 @@
 package lesson13Home;
 
-public interface Reproducable {
+public interface Reproducible {
     void reproduce();
 }
