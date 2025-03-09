@@ -1,4 +1,4 @@
-package lesson18;
+package lesson18Home;
 
 import java.util.Map;
 import java.util.TreeMap;
@@ -59,3 +59,6 @@ public class Main {
         gates.remove(1);
     }
 }
+
+
+
