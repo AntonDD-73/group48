@@ -13,7 +13,7 @@ public class FridgeExample {
         fridge.printAllProductsFromZToA();
 
         System.out.println("Взяли 1000 гр Колбасы:");
-        fridge.takeProduct("Колбаса", 1000);
+        fridge.takeProduct("Колбаса", 900);
         System.out.println("\nОсталось колбасы: " + fridge.getProductWeight("Колбаса") + " гр.\n");
 
         System.out.println("Общий вес всех продуктов в холодильнике: " + fridge.getTotalWeight() + " гр.\n");
